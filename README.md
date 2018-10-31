@@ -28,3 +28,4 @@ them of the win.
 
 > **Note**  
   The current implementation works only with gmail accounts for both the sender and the receiver
+  This is insane

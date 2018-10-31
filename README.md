@@ -27,4 +27,4 @@ them of the win.
 * [Allow access to less secure apps in the gmail account of the mail server](https://myaccount.google.com/intro/security) 
 
 > **Note**  
-  The current implementation works only with gmail accounts for both the sender and the receiver and must only be done this way.
+  The current implementation works only with gmail accounts for both the sender and the receiver and must only be done this way. SUCK A DICK
